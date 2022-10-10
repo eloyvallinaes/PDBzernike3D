@@ -1,0 +1,3 @@
+MSMS 2.6.1 started on eloy.dbb.su.se
+Copyright M.F. Sanner (1994)
+Compilation flags -O3 -DVERBOSE -DTIMING -DFUNCPROTO -force_cpusubtype_ALL  -arch ppc -arch i686
