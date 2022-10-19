@@ -2,3 +2,5 @@ numpy
 trimesh
 subprocess
 pathlib
+pyvista
+gridData
